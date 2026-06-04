@@ -6,7 +6,7 @@ SmartCart Clustering System is an unsupervised customer segmentation solution de
 - Actionable Insights: Supports personalized marketing, customer retention, and early identification of churn-prone users.
 - Flexible Data Inputs: Handles various customer attributes such as income, family composition, product spending, purchase frequency, and feedback.
 # Example Use Cases
-- Segmenting customers for targeted promotions (e.g., high spenders on wine or gold products)
+- Segmenting customers for targeted promotions (e.g., high spenders on wine or gold products).
 - Identifying loyal customers based on purchase frequency and recency.
 - Detecting at-risk customers for proactive retention campaigns.
 
